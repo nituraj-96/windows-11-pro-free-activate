@@ -1,0 +1,28 @@
+.heading{
+    font-family: arial;
+    color:rgb(144, 152, 249);
+    font:bold;
+    font-size: xx-large;
+}
+h3{
+    color:white;
+}
+span{
+    
+    color: white;
+    background-color: rgba(255,255,255, 0.1);
+    border-radius: 6px;
+    box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+    backdrop-filter: blur(5px);
+    -webkit-backdrop-filter: blur(5px);
+    border: 1px solid rgba(255,255,255, 0.3);
+
+}
+body{
+    background-image:url(https://img.freepik.com/free-vector/gradient-connection-background_52683-118592.jpg?t=st=1737447062~exp=1737450662~hmac=2bdc5e9949a44c38cd872ce9c4c531a774b64c781c2ee0aa7806fc2222f455aa&w=900);
+    background-color:#cccccc;
+
+}
+p{
+    color:white;
+}
